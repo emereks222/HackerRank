@@ -61,7 +61,7 @@ int main() {
         cin>>x.age;
         x.Agefunc();
         x.age = 0;
-        y++;
+        y++;                   //int y and if prob unnecessary
         if(y<4)
         {
             cout<<endl;
